@@ -47,13 +47,13 @@ body {
 
 @keyframes bgFade {
   0% {
-    background-image: url("./images/wall8.jpg");
+    background-image: url("/images/wall8.jpg");
   }
   50% {
-    background-image: url("./images/wall8.jpeg");
+    background-image: url("/images/wall8.jpeg");
   }
   100% {
-    background-image: url("./images/wall8.jpg");
+    background-image: url("/images/wall8.jpg");
   }
 
 }
@@ -152,7 +152,7 @@ body {
 
 #contact {
 
-  background: url(./images/wall9.jpg);
+  background: url(/images/wall9.jpg);
   background-size: cover;
 
 }
