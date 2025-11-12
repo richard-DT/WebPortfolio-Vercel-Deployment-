@@ -1,0 +1,40 @@
+[
+    {  
+        "id": 1,
+        "title": "Full-Satck Airline Booking System",
+        "description": "(Developing in collaboration with a colleague at Zuitt Tech)- Airline Flight Booking System inspired by other online booking platforms like: Cebu Pacific, Philippine Airlines and Singapore Airline",
+        "image": "/images/flight3.JPG"
+        
+    },
+    {
+        "id": 2,
+        "title": "Full-Stack E-Commerce Platform",
+        "description": "A full-stack e-commerce website built using Vue.js for the frontend and Node.js, Express, and MongoDB for the backend. The project integrates with the existing ECommerceAPI through Axios, providing a complete shopping experience with secure authentication, product browsing, and cart management.",
+        "image": "/images/eCommerce4.JPG"
+    },
+    {
+        "id": 3,
+        "title": "Backend API for Online Retail",
+        "description": "ECommerceAPI is a RESTful backend service built with Node.js, Express, and MongoDB, designed to power modern online store platforms. It provides a complete solution for Dynamic E-Commerce Workflow Management, featuring dynamic routes for order processing, real-time inventory updates, and secure user authentication.The system supports seamless automated order reporting, comprehensive product management, and efficient cart operations, ensuring scalability and smooth integration with web or mobile frontends.This project includes fully documented API endpoints, publicly published via Postman, making it developer-friendly, transparent, and ready for production-level implementation.",
+        "image": "/images/eCommerce1.JPG"
+    },
+    {
+        "id": 4,
+        "title": "Backend API for College Enrollment System",
+        "description": "Restful API for managing course enrollments, featuring user registration, authentication and retrieval of user details. Supports course creation, updates, archiving, activation and student enrollment. Publicly documented using postman.",
+        "image": "/images/courseBooking1.JPG"
+    },
+    {
+        "id": 5,
+        "title": "Automated Preventive Maintenance",
+        "description": "Spearheaded a key operational digitalization initiative by developing an Automated Preventive Maintenance System using VBA, significantly enhancing efficiency over manual planning. This system features a dynamic, intuitive user interface that provides real-time visual diagnostics of overall machine health and section-specific conditions, using a red-light/green-light display to flag critical priority maintenance items. The solution automates the maintenance workflow, integrating a database auto-update function from user inputs and facilitating proactive maintenance scheduling via auto daily email notifications for urgent items and parts replacements. This project successfully created a comprehensive, self-managing platform for efficient and transparent maintenance planning.",
+        "image": "/images/autopm.JPG"
+    },
+    {
+        "id": 6,
+        "title": "Data Analyzer",
+        "description": "Developed and deployed a VBA-based program utilized across all production machines to automate the extraction, summarization, and tabulation of daily process logs into comprehensive weekly and monthly reports. This eliminated tedious manual data consolidation, providing asset leaders with accurate, high-level analysis of the top and most frequent causes of machine delays, enabling a data-driven focus on root cause resolution.",
+        "image": "/images/dataanalyzer.JPG"
+    }
+
+]
