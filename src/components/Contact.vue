@@ -20,7 +20,7 @@
 	      <div class="col-md-5 p-4 d-flex flex-column">
 	        <form @submit.prevent="submitForm" id="contactForm" class="flex-fill">
 	            <div class="form-floating mb-3">
-	                <input type="text" class="form-control contact-form-control" placeholder="First Name M.I. Last Name" v-model="name" required>
+	                <input type="text" class="form-control contact-form-control" placeholder="Name" v-model="name" required>
 	            </div>
 	            <div class="form-floating mb-3">
 	                <input type="email" class="form-control contact-form-control" placeholder="Email" v-model="email" required>
@@ -107,7 +107,7 @@
         }
     }
 
-    const SITE_KEY = '6Ldw7gksAAAAAFgdItR53fu21KrkVQc1kGoUAFxo';
+    const SITE_KEY = '6LfjCAosAAAAAPF6azMcOsAduJC3a37HrUYcE8uH';
 
     const recaptchaContainer = ref(null);
     const recaptchaWidgetId = ref(null);
